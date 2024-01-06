@@ -1,4 +1,4 @@
 # Screenshot 🎢
-![screenshot](https://github.com/manna-biokerteszet/assets/screenshot.png)
+![screenshot](https://github.com/hrvtfnn/manna-biokerteszet/blob/main/assets/screenshot.png)
 
 # [Live demo](https://hrvtfnn.github.io/manna-biokerteszet/) 🚀
